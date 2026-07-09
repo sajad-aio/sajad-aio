@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=gradient&text=Sajad%20Ali%20Bakhshi&fontAlignY=38&desc=AI%20Engineer%20|%20Building%20Intelligent%20Systems&descAlignY=60&animation=fadeIn&fontSize=45"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=gradient&text=Sajad%20Alibakhshi&fontAlignY=38&desc=AI%20Engineer%20|%20Building%20Intelligent%20Systems&descAlignY=60&animation=fadeIn&fontSize=45"/>
 
 <h2>Building AI that Solves Real Problems</h2>
 
