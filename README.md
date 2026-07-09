@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=gradient&text=Sajad%20Alibakhshi&fontAlignY=38&desc=AI%20Engineer%20|%20Building%20Intelligent%20Systems&descAlignY=60&animation=fadeIn&fontSize=45"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=gradient&text=Sajad%20Ali%20Bakhshi&fontAlignY=38&desc=AI%20Engineer%20|%20Building%20Intelligent%20Systems&descAlignY=60&animation=fadeIn&fontSize=45"/>
 
 <h2>Building AI that Solves Real Problems</h2>
 
@@ -21,7 +21,8 @@
 - 👯 I'm looking to collaborate on **open-source AI & Full-Stack projects**
 - 💬 Ask me about **Python, AI, Computer Vision, Voice AI, Web Development**
 - ⚡ Fun fact: I enjoy turning ideas into working intelligent systems, end-to-end
-- 📫 How to reach me: **[sajadalibakhshi1389@gmail.com]**
+- 📫 How to reach me: **[sajadalibakhshi1389@gmail.com](mailto:sajadalibakhshi1389@gmail.com)**
+- 🌐 My website: **[sajadai.ir](https://sajadai.ir)**
 
 <br/>
 
@@ -39,21 +40,20 @@
 
 <div align="center">
 
-<a href="https://github.com/sajad-aio/FakeAccountDetection">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sajad-aio&repo=Bank_FraudDetection_System&theme=tokyonight&hide_border=true" />
+<a href="https://github.com/sajad-aio/feeling-detect">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sajad-aio&repo=feeling-detect&theme=tokyonight&hide_border=true" />
 </a>
-<a href="https://github.com/sajad-aio/SmartAICamera">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sajad-aio&repo=SmartAICamera&theme=tokyonight&hide_border=true" />
+<a href="https://github.com/sajad-aio/Persian-OCR">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sajad-aio&repo=Persian-OCR&theme=tokyonight&hide_border=true" />
 </a>
-<a href="https://github.com/sajad-aio/BTC_Price_forcasting">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sajad-aio&repo=BTC_Price_forcasting&theme=tokyonight&hide_border=true" />
+<a href="https://github.com/sajad-aio/Pelak-detection">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sajad-aio&repo=Pelak-detection&theme=tokyonight&hide_border=true" />
 </a>
-<a href="https://github.com/sajad-aio/Bank_FraudDetection_System">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sajad-aio&repo=Bank_FraudDetection_System&theme=tokyonight&hide_border=true" />
+<a href="https://github.com/sajad-aio/Background-remover">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sajad-aio&repo=Background-remover&theme=tokyonight&hide_border=true" />
 </a>
 
 </div>
-
 
 <br/>
 
@@ -109,16 +109,16 @@
 
 <div align="center">
 
-<a href="www.linkedin.com/in/sajadalibakhshi">
+<a href="https://www.linkedin.com/in/sajadalibakhshi">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-<a href="https://twitter.com/YOUR-TWITTER">
-  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
+<a href="https://sajadai.ir">
+  <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=googlechrome&logoColor=white"/>
 </a>
 <a href="mailto:sajadalibakhshi1389@gmail.com">
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
-<a href="https://t.me/INVis_sajad">
+<a href="https://t.me/INVis_Sajad">
   <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
 </a>
 
